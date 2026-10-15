@@ -1,202 +1,317 @@
-<div align="center">
+ <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:061A14,50:0B6B4B,100:19A974&text=PROGRAMMING%20FUNDAMENTALS&fontColor=FFFFFF&fontSize=35&fontAlignY=42&desc=LABORATORY%20WORK%20%7C%20C%2B%2B%20%7C%20BS%20COMPUTER%20SCIENCE&descSize=13&descAlignY=61&animation=fadeIn" width="100%" alt="Programming Fundamentals Banner"/>
+<br/>
 
-# Programming Fundamentals
-### Laboratory Work & Programming Portfolio
+LEARN · CODE · DEBUG · BUILD
 
-**BS Computer Science | C++ Programming | Academic Projects**
+A Professional Academic Programming Portfolio
 
-<p>
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Platform-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-2E8B57?style=for-the-badge" alt="Problem Solving">
-  <img src="https://img.shields.io/badge/Type-Academic%20Work-6C63FF?style=for-the-badge" alt="Academic Work">
-</p>
+<br/>
+<a href="https://github.com/yaseenbalochpk">
+<img src="https://img.shields.io/badge/GitHub-Yaseen%20Baloch-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
+<img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Academic-BSCS-166534?style=for-the-badge" alt="BSCS"/>
+<img src="https://img.shields.io/badge/Focus-Problem%20Solving-B8860B?style=for-the-badge" alt="Problem Solving"/>
 
-**Learn • Practice • Solve • Improve**
+Overview •
+Laboratories •
+Tech Stack •
+Student Profile
 
 </div>
 
----
+⸻
 
-## 📌 Overview
+🟢 01 — Overview
 
-Welcome to my **Programming Fundamentals Laboratory Repository**.
+Welcome to my Programming Fundamentals Repository — a structured, evolving portfolio of my practical work as a BS Computer Science student.
 
-This repository is dedicated to organizing and maintaining my laboratory
-assignments, C++ programs, practical exercises, and required submission
-documents for the Programming Fundamentals course in my BS Computer
-Science program.
+This repository brings together laboratory exercises, C++ programs, practical assignments, and supporting documentation in one organized workspace.
 
-It serves as a structured record of my academic programming practice
-and learning progress throughout the semester.
+My focus is not just to complete tasks, but to understand programming logic, develop problem-solving skills, write readable code, and build professional development habits from the beginning of my Computer Science journey.
 
-The repository is maintained using GitHub to support organized file
-management, source-code versioning, documentation, and consistent
-submission practices.
+<table>
+<tr>
+<td width="33%" align="center">
 
----
+💻
 
-## 🎯 Objectives
+Programming
 
-- Develop a strong foundation in programming with C++.
-- Apply theoretical concepts through practical laboratory exercises.
-- Improve logical thinking and computational problem-solving.
-- Write, compile, test, and debug programs.
-- Maintain clean and organized source code.
-- Practice documentation and version control using GitHub.
-- Keep laboratory submissions accessible and systematically arranged.
+C++ fundamentals and practical coding
 
----
+</td>
+<td width="33%" align="center">
 
-## 📂 Repository Structure
+🧠
 
-The repository follows a lab-wise organization to keep assignments
-and their supporting files easy to locate.
+Problem Solving
 
-```text
-programming-fundamentals-labs/
-│
-├── Lab-01/
-│   ├── README.md
-│   └── [Lab 01 files]
-│
-├── Lab-02/
-│   ├── README.md
-│   ├── Submission.pdf
-│   └── Source-Code/
-│       ├── task-01.cpp
-│       └── ...
-│
-├── Lab-03/
-│   └── [Lab 03 files]
-│
-└── README.md
-```
+Logic, reasoning, and debugging
 
-> **Note:** This is the intended organizational structure. Actual files
-> and folders will be added according to the instructor's submission
-> requirements and the work completed for each laboratory.
+</td>
+<td width="33%" align="center">
 
----
+📂
 
-## 📚 Laboratory Index
+Documentation
 
-| Laboratory | Description | Submission Status |
-|:--|:--|:--|
-| [Lab 01](./Lab-01/) | Introductory programming exercises | To be uploaded |
-| [Lab 02](./Lab-02/) | Programming exercises, calculations, and assignments | To be uploaded |
-| [Lab 03](./Lab-03/) | Details to be added when the lab manual is provided | Pending |
-| Upcoming Labs | Future laboratory exercises | Pending |
+Organized labs and version control
 
-*This index will be updated as laboratory work is completed and uploaded.*
+</td>
+</tr>
+</table>
 
----
+⸻
 
-## 🛠️ Tools & Technologies
+🎯 02 — Mission & Objectives
 
-| Tool / Technology | Purpose |
-|:--|:--|
-| **C++** | Implementing programming exercises |
-| **Cxxdroid** | Practicing and running C++ programs on mobile |
-| **GitHub** | Hosting and organizing laboratory work |
-| **Markdown** | Writing repository documentation |
+My objective is to build a strong foundation in programming through consistent practice and structured laboratory work.
 
-Additional development tools may be included as required during the course.
+* Develop a clear understanding of fundamental C++ concepts.
+* Apply theoretical knowledge to practical programming tasks.
+* Improve logical thinking and problem-solving abilities.
+* Learn to compile, execute, test, and debug programs.
+* Maintain readable, organized, and well-documented source code.
+* Use GitHub to manage and present academic work professionally.
+* Prepare for more advanced programming and software development projects.
 
----
+⸻
 
-## 💡 Programming Concepts
+📚 03 — Laboratory Collection
 
-The repository will document practical exercises related to the topics
-covered in the course, including:
+Current repository structure: 4 laboratory folders
 
-- Variables and data types
-- Standard input and output
-- Arithmetic operators and expressions
-- Mathematical calculations
-- Character handling and ASCII values
-- Basic problem-solving techniques
-- Additional concepts as introduced in the laboratory sessions
-
-The list will expand as new topics are covered.
-
----
-
-## 📄 Submission Organization
-
-Each laboratory will have its own directory. Its contents will follow
-the instructor's instructions and the requirements specified in the
-relevant lab manual.
-
-Depending on the submission requirements, a lab folder may contain:
-
-- **Submission PDF:** Required handwritten-code photographs, typed-code
-  screenshots, and program-output screenshots arranged in the specified
-  order.
-- **C++ Source Files:** Individual `.cpp` files for the corresponding
-  programming tasks, where required.
-- **Lab Documentation:** A `README.md` describing the laboratory and
-  its contents, if useful or required.
-
-All files will be placed in their corresponding laboratory folders.
-
----
-
-## 📈 Learning & Development
-
-This repository reflects my ongoing development as a Computer Science
-student.
-
-Through practical programming exercises, I aim to strengthen my
-understanding of programming fundamentals, improve code quality, and
-build a consistent approach to testing, documentation, and problem-solving.
-
-Each laboratory provides an opportunity to apply concepts, identify
-errors, and improve through practice.
-
----
-
-## 👨‍🎓 Student Information
-
-| Field | Details |
-|:--|:--|
-| **Student Name** | Muhammad Yaseen |
-| **Degree Program** | BS Computer Science |
-| **Course** | Programming Fundamentals |
-| **Programming Language** | C++ |
-| **GitHub Profile** | [@yaseenbalochpk](https://github.com/yaseenbalochpk) |
-
----
-
-## 🔐 Academic Integrity
-
-All submissions are maintained for academic learning and practice.
-Laboratory tasks are to be completed in accordance with the instructor's
-guidelines and the applicable academic requirements.
-
-This repository is intended to document my own learning and programming
-progress.
-
----
-
-## 🔄 Repository Updates
-
-This repository will be maintained throughout the semester.
-
-New laboratory folders, source files, documentation, and submission
-documents will be added as assignments are provided and completed.
-
-The laboratory index and repository structure will be updated to reflect
-the actual contents of the repository.
-
----
+Each laboratory has its own directory. New folders will be added as further assignments become available.
 
 <div align="center">
 
-### Learn. Build. Improve.
+📁 Laboratory	🔗 Directory
+LAB 01	Explore Lab 01 →
+LAB 02	Explore Lab 02 →
+LAB 03	Explore Lab 03 →
+LAB 04	Explore Lab 04 →
+UPCOMING	Future laboratory folders
 
-**Programming Fundamentals | BS Computer Science**
+</div>
 
-*Maintained by Muhammad Yaseen*
+Repository note: The links above assume that your folders are named Lab-01, Lab-02, Lab-03, and Lab-04. If your actual folder names differ, update the links accordingly.
+
+🗂️ Repository Architecture
+
+📦 programming-fundamentals-labs
+│
+├── 📄 README.md
+│
+├── 📁 Lab-01/
+│   └── Laboratory files
+│
+├── 📁 Lab-02/
+│   └── Laboratory files
+│
+├── 📁 Lab-03/
+│   └── Laboratory files
+│
+├── 📁 Lab-04/
+│   └── Laboratory files
+│
+└── 📁 Future Labs/
+    └── Added as coursework progresses
+
+The structure above illustrates the intended organization; each lab directory should reflect its actual contents.
+
+⸻
+
+⚙️ 04 — Technology Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,github,git,vscode&theme=dark" alt="C++, GitHub, Git and VS Code" />
+</div>
+
+Tool	Role in This Repository
+C++	Programming exercises and practical solutions
+GitHub	Repository hosting and code organization
+Git	Version control and change tracking
+Markdown	Readable documentation
+Cxxdroid	Mobile-based C++ practice
+
+⸻
+
+🧩 05 — Concepts & Skills
+
+The concepts documented here will follow the actual course syllabus and laboratory instructions.
+
+Variables & Data Types · Input & Output · Arithmetic Expressions · Type Conversion · Conditional Statements · Logical Reasoning · Debugging · Program Testing
+
+Additional topics will be included as they are introduced during the course.
+
+⸻
+
+📄 06 — Documentation & Submission Standards
+
+Laboratory files will be organized according to the relevant lab manual and instructor’s requirements.
+
+File Type	Purpose
+README.md	Laboratory overview and task documentation
+.cpp files	Individual C++ programs, where required
+Submission.pdf	Required handwritten work, code screenshots, and outputs
+Supporting files	Other materials required by the instructor
+
+Quality principles
+
+* Consistent folder and file naming.
+* Clear separation of individual programming tasks.
+* Readable source code and useful documentation.
+* Correct ordering of submission materials.
+* Accurate representation of completed work.
+
+⸻
+
+▶️ 07 — Quick Start
+
+To test a C++ program, create a file named main.cpp:
+
+#include <iostream>
+using namespace std;
+int main() {
+    cout << "Welcome to Programming Fundamentals!" << endl;
+    return 0;
+}
+
+Compile with a C++ compiler such as g++:
+
+g++ main.cpp -o main
+
+Run on Linux or a compatible terminal:
+
+./main
+
+On Windows, run:
+
+main.exe
+
+Compilation commands depend on the operating system and installed compiler.
+
+⸻
+
+📈 08 — Learning Roadmap
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+
+01
+
+<br/>
+
+📖
+
+LEARN
+
+<br/>
+
+Understand concepts
+
+</td>
+<td align="center" width="25%">
+
+02
+
+<br/>
+
+⌨️
+
+PRACTICE
+
+<br/>
+
+Write programs
+
+</td>
+<td align="center" width="25%">
+
+03
+
+<br/>
+
+🧪
+
+TEST
+
+<br/>
+
+Debug and improve
+
+</td>
+<td align="center" width="25%">
+
+04
+
+<br/>
+
+🚀
+
+GROW
+
+<br/>
+
+Build new skills
+
+</td>
+</tr>
+</table>
+</div>
+
+Every laboratory represents another opportunity to strengthen my technical foundation and become a more capable Computer Science student.
+
+⸻
+
+👨‍🎓 09 — Student Profile
+
+<div align="center">
+<img src="https://img.shields.io/badge/STUDENT-Muhammad%20Yaseen-0B6B4B?style=for-the-badge" alt="Muhammad Yaseen"/>
+
+Muhammad Yaseen
+
+BS Computer Science · Programming Fundamentals
+
+</div>
+
+Profile Detail	Information
+Student Name	Muhammad Yaseen
+Degree	BS Computer Science (BSCS)
+Course	Programming Fundamentals
+Primary Language	C++
+GitHub Profile	yaseenbalochpk
+Academic Focus	Programming and problem-solving
+
+⸻
+
+🔐 10 — Academic Integrity
+
+This repository is maintained for academic learning, practical exercises, and personal skill development. Laboratory work will be completed and submitted according to the instructor’s instructions and applicable academic requirements.
+
+The aim is to document genuine learning progress and develop responsible programming practices.
+
+⸻
+
+🔄 11 — Continuous Development
+
+This is a growing repository, not a finished project.
+
+As the semester progresses, additional laboratory folders, source files, documentation, and submission materials will be added. The main README will be updated to reflect the repository’s actual contents.
+
+Current milestone: Four laboratory folders organized as the foundation for continued academic work.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A14,50:0B6B4B,100:19A974&height=120&section=footer" width="100%" alt="Green Footer Banner"/>
+
+BUILD YOUR FOUNDATION. SHAPE YOUR FUTURE.
+
+Learn with purpose · Code with clarity · Improve every day
+
+Maintained by Muhammad Yaseen
 
 </div>
